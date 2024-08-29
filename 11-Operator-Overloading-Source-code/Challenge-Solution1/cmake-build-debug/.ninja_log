@@ -1,0 +1,7 @@
+# ninja log v5
+1	526	7007750786074226	CMakeFiles/Challenge_Solution1.dir/main.cpp.obj	31fa9f32033d3eb3
+3	305	7007754998268002	CMakeFiles/Challenge_Solution1.dir/Mystring.cpp.obj	f2d6753a18c9eb39
+306	425	7007754999440484	Challenge_Solution1.exe	70edf9e42f75fcdc
+2	493	7033937010970525	CMakeFiles/Challenge_Solution1.dir/main.cpp.obj	31fa9f32033d3eb3
+8	533	7033937011356646	CMakeFiles/Challenge_Solution1.dir/Mystring.cpp.obj	f2d6753a18c9eb39
+533	757	7033937013533212	Challenge_Solution1.exe	70edf9e42f75fcdc

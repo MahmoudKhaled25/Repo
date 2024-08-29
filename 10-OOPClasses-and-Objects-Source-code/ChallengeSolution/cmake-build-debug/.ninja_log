@@ -1,0 +1,11 @@
+# ninja log v5
+4	463	6976767978226109	CMakeFiles/ChallengeSolution.dir/Movie.cpp.obj	b3725a257e4197a5
+0	467	6976767978249957	CMakeFiles/ChallengeSolution.dir/main.cpp.obj	7380254f1ddf058c
+8	575	6976767979353471	CMakeFiles/ChallengeSolution.dir/Movies.cpp.obj	e8c7fcc7e476c1a2
+575	707	6976767980650084	ChallengeSolution.exe	62ddde6dcb9773a7
+4	401	6976770512376970	CMakeFiles/ChallengeSolution.dir/main.cpp.obj	7380254f1ddf058c
+402	535	6976770513672576	ChallengeSolution.exe	62ddde6dcb9773a7
+3	452	6977481288432099	CMakeFiles/ChallengeSolution.dir/main.cpp.obj	7380254f1ddf058c
+452	700	6977481290881139	ChallengeSolution.exe	62ddde6dcb9773a7
+3	310	6977481481474103	CMakeFiles/ChallengeSolution.dir/main.cpp.obj	7380254f1ddf058c
+311	396	6977481482289220	ChallengeSolution.exe	62ddde6dcb9773a7

@@ -1,0 +1,3 @@
+C:/Users/Blu-Ray/CLionProjects/Course Source Codes/10-OOPClasses-and-Objects-Source-code/ChallengeSolution/cmake-build-debug/CMakeFiles/ChallengeSolution.dir
+C:/Users/Blu-Ray/CLionProjects/Course Source Codes/10-OOPClasses-and-Objects-Source-code/ChallengeSolution/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Blu-Ray/CLionProjects/Course Source Codes/10-OOPClasses-and-Objects-Source-code/ChallengeSolution/cmake-build-debug/CMakeFiles/rebuild_cache.dir

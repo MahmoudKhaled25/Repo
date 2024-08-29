@@ -1,0 +1,4 @@
+# ninja log v5
+1	361	6992422841575872	CMakeFiles/Mystring_copy_assignment.dir/main.cpp.obj	7fba9cddfb3dc09d
+5	670	6992422844670242	CMakeFiles/Mystring_copy_assignment.dir/Mystring.cpp.obj	a336aa3c27f05d14
+670	773	6992422845673582	Mystring_copy_assignment.exe	7e59da528cf6e835
